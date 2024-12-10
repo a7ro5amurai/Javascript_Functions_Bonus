@@ -1,0 +1,25 @@
+section{
+    display: flex;
+    justify-content: center;
+    gap: 5vw;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.greenpurple{
+    background: linear-gradient(45deg, green 50%, purple 50%);
+}
+.greyyellow{
+    background: linear-gradient(45deg, gray 50%, yellow 50%);
+}
+.blackorange{
+    background: linear-gradient(45deg, black 50%, orange 50%);
+}
+.darkbluelightblue{
+    background: linear-gradient(45deg, darkblue 50%, lightblue 50%);
+} 
